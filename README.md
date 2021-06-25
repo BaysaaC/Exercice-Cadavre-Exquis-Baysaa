@@ -13,3 +13,9 @@ Let's try this:</br>
 
 Oh crap ! It actually worked ! </br>
 (Narrator: it didn't.)
+
+A member of the assembly looks at these cards
+
+"But were we talking about the approaching war ?!"
+
+"Ah yes sorry" said the president "Bad conference room"
