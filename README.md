@@ -19,3 +19,9 @@ Oh crap ! It actually worked ! </br>
 (Narrator: I have no free will, you know...)
 
 (Narrator: *"sighs"* )
+
+A member of the assembly looks at these cards
+
+"But were we talking about the approaching war ?!"
+
+"Ah yes sorry" said the president "Bad conference room"
