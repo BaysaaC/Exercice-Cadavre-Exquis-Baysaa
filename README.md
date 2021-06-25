@@ -13,3 +13,9 @@ Let's try this:</br>
 
 Oh crap ! It actually worked ! </br>
 (Narrator: it didn't.)
+
+(Narrator: I did not say that the autor made me say it)
+
+(Narrator: I have no free will, you know...)
+
+(Narrator: *"sighs"* )
