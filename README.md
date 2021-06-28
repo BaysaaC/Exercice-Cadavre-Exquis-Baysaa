@@ -14,7 +14,7 @@ Let's try this:</br>
 Oh crap ! It actually worked ! </br>
 (Narrator: it didn't.)
 
-(Narrator: I did not say that the autor made me say it)
+(Narrator: I did not say that the author made me say it)
 
 (Narrator: I have no free will, you know...)
 
@@ -25,3 +25,6 @@ A member of the assembly looks at these cards
 "But were we talking about the approaching war ?!"
 
 "Ah yes sorry" said the president "Bad conference room"
+
+
+*_No mistakes :)_*
