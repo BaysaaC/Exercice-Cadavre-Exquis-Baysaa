@@ -13,6 +13,7 @@ Let's try this:</br>
 
 Oh crap ! It actually worked ! </br>
 (Narrator: it didn't.)
+<<<<<<< HEAD
 
 (Narrator: I did not say that the author made me say it)
 
@@ -27,4 +28,9 @@ A member of the assembly looks at these cards
 "Ah yes sorry" said the president "Bad conference room"
 
 
-*_No mistakes :)_*
+=======
+ I <br> AM <br> innevitable
+>>>>>>> jeremie
+
+
+**_No mistakes :)_**
