@@ -33,10 +33,8 @@ A member of the assembly looks at these cards
 
 
 =======
- I <br> AM <br> innevitable
+ I <br> AM <br> inevitable
 >>>>>>> jeremie
 
 
 **_No mistakes :)_**
-=======
->>>>>>> Ju-in-Baysaa-README
